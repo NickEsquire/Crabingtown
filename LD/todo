@@ -1,0 +1,35 @@
+- better AI
+- more balance
+- crab's speed depends on level?
+- UI
+- fix target
+- scorePoints
+- other items?
+
+- sprites:
+  - projectiles:
+    - rocks
+    - arrow
+    - cannonball
+    - shell
+    - laser
+  !- terrain x8 textures
+  - weapons:
+    - sling
+    - bow
+    - catapult
+    - ballista
+    - cannon
+    - artillery
+    - laser
+  - citizen
+  !- bait cage
+
+- animation:
+  - crabs:
+    - emerging
+    - sinking
+  - growing
+  
+- sounds:
+  - move
